@@ -62,6 +62,7 @@ button {
     margin-bottom: 24px;
     max-height: 160px;
     overflow: hidden;
+    transform: none !important;
   }
 }
 
